@@ -1,0 +1,19 @@
+{
+  "name": "zz6z-cli-number-guessing_002",
+  "version": "1.0.0",
+  "description": "We make a cli guessing game with typescript,inquirer and Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakia Baig",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
